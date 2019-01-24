@@ -1,0 +1,15 @@
+#result {
+  display: none;
+}
+
+body {
+  margin-top: 40px;
+  background-color: darkgray;
+  font-family: monospace;
+}
+
+h1 {
+  font-weight: bold;
+  color: pink;
+  margin-bottom: 20px;
+}
